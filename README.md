@@ -1,6 +1,7 @@
 # Square
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
+Create a business directory for your city, add new business and search it in a Google map, created with Angular4
 
 ## Development server
 
