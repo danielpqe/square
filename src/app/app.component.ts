@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'square';
+  title = 'Square';
+  a = 3;
+  b = 5;
+  listo=false;
 }
